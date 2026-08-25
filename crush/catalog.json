@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-25",
+  "brand": {
+    "id": "crush",
+    "name": "CRUSH",
+    "tagline": "Fan Uygulaması",
+    "accent": "#FF3D71",
+    "bg": "#141021",
+    "surface": "#221C36",
+    "surfaceAlt": "#1B1630",
+    "border": "#322A4D",
+    "textMuted": "#8F86B0"
+  },
+  "members": [
+    { "id": "oguzhan", "name": "Oğuzhan", "color": "#FF3D71" },
+    { "id": "batu",    "name": "Batu",    "color": "#7C4DFF" },
+    { "id": "baris",   "name": "Barış",   "color": "#00B8A9" },
+    { "id": "mirac",   "name": "Miraç",   "color": "#2E76F0" },
+    { "id": "milan",   "name": "Milan",   "color": "#FF9F1C" },
+    { "id": "arda",    "name": "Arda",    "color": "#E0417B" },
+    { "id": "efe",     "name": "Efe",     "color": "#5B36C4" }
+  ],
+  "songs": [
+    {
+      "id": "s1",
+      "title": "CRUSH!",
+      "subtitle": "İlk tekli · 2026",
+      "durationSec": 204,
+      "cover": "https://CDN_ADRESIN/covers/crush.jpg",
+      "url": "https://CDN_ADRESIN/audio/crush.mp3"
+    }
+  ],
+  "wallpapers": [
+    { "id": "w1", "memberId": "mirac", "thumb": "https://CDN_ADRESIN/wp/w1_t.jpg", "full": "https://CDN_ADRESIN/wp/w1.jpg" }
+  ],
+  "photos": [
+    { "id": "p1", "memberId": "mirac", "thumb": "https://CDN_ADRESIN/ph/p1_t.jpg", "full": "https://CDN_ADRESIN/ph/p1.jpg" }
+  ],
+  "personalityQuiz": [
+    {
+      "q": "Hafta sonu planın ne olurdu?",
+      "options": [
+        { "text": "Arkadaşlarla konsere gitmek", "memberId": "oguzhan" },
+        { "text": "Evde şarkı listesi yapmak",   "memberId": "mirac" },
+        { "text": "Dans provası yapmak",         "memberId": "batu" },
+        { "text": "Sabaha kadar dizi izlemek",   "memberId": "efe" }
+      ]
+    }
+  ],
+  "trivia": [
+    { "q": "CRUSH kaç üyeden oluşuyor?", "options": ["5", "6", "7", "8"], "answer": 2 },
+    { "q": "CRUSH hangi yarışmadan çıktı?", "options": ["Big5 Türkiye", "Idol House Türkiye", "O Ses Türkiye", "Popstar"], "answer": 1 }
+  ],
+  "ads": {
+    "bannerId": "ca-app-pub-3940256099942544/6300978111",
+    "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+    "rewardedId": "ca-app-pub-3940256099942544/5224354917",
+    "interstitialEveryNActions": 4
+  }
+}
