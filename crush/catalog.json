@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-08-25",
   "brand": {
     "id": "crush",
@@ -59,8 +59,616 @@
       "url": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/audio/crush.m4a"
     }
   ],
-  "wallpapers": [],
-  "photos": [],
+  "wallpapers": [
+    {
+      "id": "arda_01",
+      "memberId": "arda",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_01_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_01.jpg"
+    },
+    {
+      "id": "arda_03",
+      "memberId": "arda",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_03_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_03.jpg"
+    },
+    {
+      "id": "arda_04",
+      "memberId": "arda",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_04_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_04.jpg"
+    },
+    {
+      "id": "arda_05",
+      "memberId": "arda",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_05_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_05.jpg"
+    },
+    {
+      "id": "arda_06",
+      "memberId": "arda",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_06_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_06.jpg"
+    },
+    {
+      "id": "arda_08",
+      "memberId": "arda",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_08_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_08.jpg"
+    },
+    {
+      "id": "arda_09",
+      "memberId": "arda",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_09_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/arda_09.jpg"
+    },
+    {
+      "id": "baris_05",
+      "memberId": "baris",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/baris_05_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/baris_05.jpg"
+    },
+    {
+      "id": "batu_01",
+      "memberId": "batu",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/batu_01_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/batu_01.jpg"
+    },
+    {
+      "id": "batu_02",
+      "memberId": "batu",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/batu_02_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/batu_02.jpg"
+    },
+    {
+      "id": "batu_04",
+      "memberId": "batu",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/batu_04_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/batu_04.jpg"
+    },
+    {
+      "id": "batu_06",
+      "memberId": "batu",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/batu_06_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/batu_06.jpg"
+    },
+    {
+      "id": "batu_08",
+      "memberId": "batu",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/batu_08_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/batu_08.jpg"
+    },
+    {
+      "id": "crush_photos_03",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_03_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_03.jpg"
+    },
+    {
+      "id": "crush_photos_04",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_04_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_04.jpg"
+    },
+    {
+      "id": "crush_photos_09",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_09_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_09.jpg"
+    },
+    {
+      "id": "crush_photos_10",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_10_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_10.jpg"
+    },
+    {
+      "id": "crush_photos_11",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_11_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_11.jpg"
+    },
+    {
+      "id": "crush_photos_14",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_14_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_14.jpg"
+    },
+    {
+      "id": "crush_photos_16",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_16_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_16.jpg"
+    },
+    {
+      "id": "crush_photos_22",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_22_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_22.jpg"
+    },
+    {
+      "id": "crush_photos_25",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_25_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/crush_photos_25.jpg"
+    },
+    {
+      "id": "efe_02",
+      "memberId": "efe",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/efe_02_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/efe_02.jpg"
+    },
+    {
+      "id": "efe_06",
+      "memberId": "efe",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/efe_06_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/efe_06.jpg"
+    },
+    {
+      "id": "efe_07",
+      "memberId": "efe",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/efe_07_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/efe_07.jpg"
+    },
+    {
+      "id": "milan_01",
+      "memberId": "milan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_01_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_01.jpg"
+    },
+    {
+      "id": "milan_02",
+      "memberId": "milan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_02_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_02.jpg"
+    },
+    {
+      "id": "milan_06",
+      "memberId": "milan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_06_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_06.jpg"
+    },
+    {
+      "id": "milan_07",
+      "memberId": "milan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_07_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_07.jpg"
+    },
+    {
+      "id": "milan_08",
+      "memberId": "milan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_08_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_08.jpg"
+    },
+    {
+      "id": "milan_09",
+      "memberId": "milan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_09_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_09.jpg"
+    },
+    {
+      "id": "milan_10",
+      "memberId": "milan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_10_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/milan_10.jpg"
+    },
+    {
+      "id": "mirac_01",
+      "memberId": "mirac",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/mirac_01_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/mirac_01.jpg"
+    },
+    {
+      "id": "mirac_02",
+      "memberId": "mirac",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/mirac_02_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/mirac_02.jpg"
+    },
+    {
+      "id": "mirac_04",
+      "memberId": "mirac",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/mirac_04_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/mirac_04.jpg"
+    },
+    {
+      "id": "mirac_07",
+      "memberId": "mirac",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/mirac_07_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/mirac_07.jpg"
+    },
+    {
+      "id": "oguz_02",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/oguz_02_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/oguz_02.jpg"
+    },
+    {
+      "id": "oguz_03",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/oguz_03_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/oguz_03.jpg"
+    },
+    {
+      "id": "oguz_04",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/oguz_04_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/oguz_04.jpg"
+    },
+    {
+      "id": "oguz_07",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/oguz_07_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/oguz_07.jpg"
+    },
+    {
+      "id": "oguz_09",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/oguz_09_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/oguz_09.jpg"
+    },
+    {
+      "id": "oguz_13",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/oguz_13_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/wp/oguz_13.jpg"
+    }
+  ],
+  "photos": [
+    {
+      "id": "arda_02",
+      "memberId": "arda",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/arda_02_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/arda_02.jpg"
+    },
+    {
+      "id": "arda_07",
+      "memberId": "arda",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/arda_07_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/arda_07.jpg"
+    },
+    {
+      "id": "arda_10",
+      "memberId": "arda",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/arda_10_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/arda_10.jpg"
+    },
+    {
+      "id": "arda_11",
+      "memberId": "arda",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/arda_11_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/arda_11.jpg"
+    },
+    {
+      "id": "baris_01",
+      "memberId": "baris",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_01_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_01.jpg"
+    },
+    {
+      "id": "baris_02",
+      "memberId": "baris",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_02_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_02.jpg"
+    },
+    {
+      "id": "baris_03",
+      "memberId": "baris",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_03_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_03.jpg"
+    },
+    {
+      "id": "baris_04",
+      "memberId": "baris",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_04_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_04.jpg"
+    },
+    {
+      "id": "baris_06",
+      "memberId": "baris",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_06_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_06.jpg"
+    },
+    {
+      "id": "baris_07",
+      "memberId": "baris",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_07_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_07.jpg"
+    },
+    {
+      "id": "baris_08",
+      "memberId": "baris",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_08_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_08.jpg"
+    },
+    {
+      "id": "baris_09",
+      "memberId": "baris",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_09_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_09.jpg"
+    },
+    {
+      "id": "baris_10",
+      "memberId": "baris",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_10_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_10.jpg"
+    },
+    {
+      "id": "baris_11",
+      "memberId": "baris",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_11_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/baris_11.jpg"
+    },
+    {
+      "id": "batu_03",
+      "memberId": "batu",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_03_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_03.jpg"
+    },
+    {
+      "id": "batu_05",
+      "memberId": "batu",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_05_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_05.jpg"
+    },
+    {
+      "id": "batu_07",
+      "memberId": "batu",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_07_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_07.jpg"
+    },
+    {
+      "id": "batu_09",
+      "memberId": "batu",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_09_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_09.jpg"
+    },
+    {
+      "id": "batu_10",
+      "memberId": "batu",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_10_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_10.jpg"
+    },
+    {
+      "id": "batu_11",
+      "memberId": "batu",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_11_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_11.jpg"
+    },
+    {
+      "id": "batu_12",
+      "memberId": "batu",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_12_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/batu_12.jpg"
+    },
+    {
+      "id": "crush_photos_01",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_01_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_01.jpg"
+    },
+    {
+      "id": "crush_photos_02",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_02_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_02.jpg"
+    },
+    {
+      "id": "crush_photos_05",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_05_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_05.jpg"
+    },
+    {
+      "id": "crush_photos_06",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_06_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_06.jpg"
+    },
+    {
+      "id": "crush_photos_07",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_07_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_07.jpg"
+    },
+    {
+      "id": "crush_photos_08",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_08_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_08.jpg"
+    },
+    {
+      "id": "crush_photos_12",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_12_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_12.jpg"
+    },
+    {
+      "id": "crush_photos_13",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_13_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_13.jpg"
+    },
+    {
+      "id": "crush_photos_15",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_15_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_15.jpg"
+    },
+    {
+      "id": "crush_photos_17",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_17_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_17.jpg"
+    },
+    {
+      "id": "crush_photos_18",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_18_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_18.jpg"
+    },
+    {
+      "id": "crush_photos_19",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_19_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_19.jpg"
+    },
+    {
+      "id": "crush_photos_20",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_20_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_20.jpg"
+    },
+    {
+      "id": "crush_photos_21",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_21_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_21.jpg"
+    },
+    {
+      "id": "crush_photos_23",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_23_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_23.jpg"
+    },
+    {
+      "id": "crush_photos_24",
+      "memberId": "",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_24_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/crush_photos_24.jpg"
+    },
+    {
+      "id": "efe_01",
+      "memberId": "efe",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/efe_01_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/efe_01.jpg"
+    },
+    {
+      "id": "efe_03",
+      "memberId": "efe",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/efe_03_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/efe_03.jpg"
+    },
+    {
+      "id": "efe_04",
+      "memberId": "efe",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/efe_04_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/efe_04.jpg"
+    },
+    {
+      "id": "efe_05",
+      "memberId": "efe",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/efe_05_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/efe_05.jpg"
+    },
+    {
+      "id": "milan_03",
+      "memberId": "milan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/milan_03_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/milan_03.jpg"
+    },
+    {
+      "id": "milan_04",
+      "memberId": "milan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/milan_04_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/milan_04.jpg"
+    },
+    {
+      "id": "milan_05",
+      "memberId": "milan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/milan_05_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/milan_05.jpg"
+    },
+    {
+      "id": "milan_11",
+      "memberId": "milan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/milan_11_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/milan_11.jpg"
+    },
+    {
+      "id": "mirac_03",
+      "memberId": "mirac",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/mirac_03_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/mirac_03.jpg"
+    },
+    {
+      "id": "mirac_05",
+      "memberId": "mirac",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/mirac_05_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/mirac_05.jpg"
+    },
+    {
+      "id": "mirac_06",
+      "memberId": "mirac",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/mirac_06_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/mirac_06.jpg"
+    },
+    {
+      "id": "mirac_08",
+      "memberId": "mirac",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/mirac_08_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/mirac_08.jpg"
+    },
+    {
+      "id": "mirac_09",
+      "memberId": "mirac",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/mirac_09_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/mirac_09.jpg"
+    },
+    {
+      "id": "mirac_10",
+      "memberId": "mirac",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/mirac_10_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/mirac_10.jpg"
+    },
+    {
+      "id": "oguz_01",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_01_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_01.jpg"
+    },
+    {
+      "id": "oguz_05",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_05_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_05.jpg"
+    },
+    {
+      "id": "oguz_06",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_06_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_06.jpg"
+    },
+    {
+      "id": "oguz_08",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_08_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_08.jpg"
+    },
+    {
+      "id": "oguz_10",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_10_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_10.jpg"
+    },
+    {
+      "id": "oguz_11",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_11_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_11.jpg"
+    },
+    {
+      "id": "oguz_12",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_12_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_12.jpg"
+    },
+    {
+      "id": "oguz_14",
+      "memberId": "oguzhan",
+      "thumb": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_14_t.jpg",
+      "full": "https://cdn.jsdelivr.net/gh/yvzakll/crush-icerik@main/images/ph/oguz_14.jpg"
+    }
+  ],
   "personalityQuiz": [
     {
       "q": "Hafta sonu planın ne olurdu?",
