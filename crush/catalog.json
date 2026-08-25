@@ -37,21 +37,115 @@
   "photos": [
     { "id": "p1", "memberId": "mirac", "thumb": "https://CDN_ADRESIN/ph/p1_t.jpg", "full": "https://CDN_ADRESIN/ph/p1.jpg" }
   ],
-  "personalityQuiz": [
-    {
-      "q": "Hafta sonu planın ne olurdu?",
-      "options": [
-        { "text": "Arkadaşlarla konsere gitmek", "memberId": "oguzhan" },
-        { "text": "Evde şarkı listesi yapmak",   "memberId": "mirac" },
-        { "text": "Dans provası yapmak",         "memberId": "batu" },
-        { "text": "Sabaha kadar dizi izlemek",   "memberId": "efe" }
-      ]
-    }
+   "personalityQuiz": [
+    { "q": "Hafta sonu planın ne olurdu?", "options": [
+      { "text": "Arkadaşlarla konsere gitmek", "memberId": "oguzhan" },
+      { "text": "Evde şarkı listesi yapmak", "memberId": "mirac" },
+      { "text": "Dans provası yapmak", "memberId": "batu" },
+      { "text": "Sabaha kadar dizi izlemek", "memberId": "efe" } ] },
+
+    { "q": "Sahneye çıkmadan 5 dakika önce ne yaparsın?", "options": [
+      { "text": "Herkesi toplayıp motivasyon konuşması", "memberId": "oguzhan" },
+      { "text": "Kulaklık takıp kendi dünyama giderim", "memberId": "mirac" },
+      { "text": "Son bir kez koreografiyi tekrar ederim", "memberId": "batu" },
+      { "text": "Şaka yapıp herkesi güldürürüm", "memberId": "arda" } ] },
+
+    { "q": "Arkadaş grubunda senin rolün ne?", "options": [
+      { "text": "Planı yapan kişi", "memberId": "oguzhan" },
+      { "text": "Sessiz ama her şeyi fark eden", "memberId": "baris" },
+      { "text": "Enerjiyi yükselten", "memberId": "arda" },
+      { "text": "Herkesi dinleyen", "memberId": "milan" } ] },
+
+    { "q": "Telefonunun ekran süresi en çok nerede?", "options": [
+      { "text": "Müzik uygulamaları", "memberId": "mirac" },
+      { "text": "TikTok", "memberId": "efe" },
+      { "text": "Mesajlaşma", "memberId": "arda" },
+      { "text": "Fotoğraf galerisi", "memberId": "baris" } ] },
+
+    { "q": "Gece yarısı aniden ne canın çeker?", "options": [
+      { "text": "Yürüyüşe çıkmak", "memberId": "milan" },
+      { "text": "Şarkı yazmak", "memberId": "mirac" },
+      { "text": "Bir şeyler atıştırmak", "memberId": "arda" },
+      { "text": "Eski fotoğraflara bakmak", "memberId": "baris" } ] },
+
+    { "q": "Yeni bir şey öğrenirken?", "options": [
+      { "text": "Hemen denerim, sonra düşünürüm", "memberId": "efe" },
+      { "text": "Önce izler, sonra taklit ederim", "memberId": "batu" },
+      { "text": "Araştırır, not alırım", "memberId": "mirac" },
+      { "text": "Birinden yardım isterim", "memberId": "milan" } ] },
+
+    { "q": "En sevdiğin an hangisi?", "options": [
+      { "text": "Kalabalığın bağırdığı an", "memberId": "oguzhan" },
+      { "text": "Prova bittiğinde gelen sessizlik", "memberId": "baris" },
+      { "text": "İlk notanın çaldığı an", "memberId": "mirac" },
+      { "text": "Herkesin birlikte güldüğü an", "memberId": "arda" } ] },
+
+    { "q": "Biri seni eleştirdiğinde?", "options": [
+      { "text": "Ciddiye alır, üstünde çalışırım", "memberId": "batu" },
+      { "text": "Kırılırım ama belli etmem", "memberId": "baris" },
+      { "text": "Şakaya vururum", "memberId": "efe" },
+      { "text": "Neden öyle düşündüğünü sorarım", "memberId": "milan" } ] },
+
+    { "q": "Bavuluna ilk ne koyarsın?", "options": [
+      { "text": "Kulaklık", "memberId": "mirac" },
+      { "text": "Spor ayakkabı", "memberId": "batu" },
+      { "text": "Fotoğraf makinesi", "memberId": "baris" },
+      { "text": "Yedek şarj aleti", "memberId": "oguzhan" } ] },
+
+    { "q": "Sence en büyük gücün ne?", "options": [
+      { "text": "Vazgeçmemek", "memberId": "batu" },
+      { "text": "İnsanları rahatlatmak", "memberId": "milan" },
+      { "text": "Ortamı değiştirmek", "memberId": "arda" },
+      { "text": "Sabırlı olmak", "memberId": "baris" } ] }
   ],
-  "trivia": [
+
+ "trivia": [
     { "q": "CRUSH kaç üyeden oluşuyor?", "options": ["5", "6", "7", "8"], "answer": 2 },
-    { "q": "CRUSH hangi yarışmadan çıktı?", "options": ["Big5 Türkiye", "Idol House Türkiye", "O Ses Türkiye", "Popstar"], "answer": 1 }
-  ],
+    { "q": "CRUSH hangi yarışmadan çıktı?", "options": ["Big5 Türkiye", "Idol House Türkiye", "O Ses Türkiye", "Popstar"], "answer": 1 },
+    { "q": "Grubun ilk şarkısının adı nedir?", "options": ["Sahne", "CRUSH!", "Işıklar", "Geri Sayım"], "answer": 1 },
+    { "q": "İlk tekli hangi yıl yayımlandı?", "options": ["2024", "2025", "2026", "2027"], "answer": 2 },
+    { "q": "İlk tekli hangi ayda çıktı?", "options": ["Mayıs", "Haziran", "Temmuz", "Ağustos"], "answer": 2 },
+    { "q": "Idol House Türkiye finali hangi ayda yapıldı?", "options": ["Mayıs", "Haziran", "Temmuz", "Ağustos"], "answer": 2 },
+    { "q": "Finalde kaç yarışmacı vardı?", "options": ["10", "12", "15", "20"], "answer": 2 },
+    { "q": "İlk tekliyi kim prodüklendirdi?", "options": ["Sezer Dinç", "Ozan Çolakoğlu", "Alper Erözer", "Emre Kaya"], "answer": 0 },
+    { "q": "Grubun resmî sosyal medya kullanıcı adı nedir?", "options": ["@crushtr", "@wearecrushboys", "@crushofficial", "@crushgrubu"], "answer": 1 },
+    { "q": "Grup hangi plak şirketleriyle çalışıyor?", "options": ["ETL Records ve DMC Music", "Sony Music", "Universal", "DMC ve Poll"], "answer": 0 },
+    { "q": "Yarışma öncesi kamp süreci yaklaşık ne kadar sürdü?", "options": ["1 ay", "2 ay", "4 ay", "8 ay"], "answer": 2 },
+
+    { "q": "Oğuzhan Çiftçi'nin soyadı nedir?", "options": ["Çiftçi", "Cengiz", "Fırat", "Önder"], "answer": 0 },
+    { "q": "Batu'nun soyadı nedir?", "options": ["Şan", "Cengiz", "Soydoğan", "Yüksekkaya"], "answer": 1 },
+    { "q": "Miraç'ın soyadı nedir?", "options": ["Fırat", "Önder", "Çiftçi", "Şan"], "answer": 0 },
+    { "q": "Milan'ın soyadı nedir?", "options": ["Soydoğan", "Önder", "Cengiz", "Fırat"], "answer": 1 },
+    { "q": "Arda'nın soyadı nedir?", "options": ["Şan", "Yüksekkaya", "Soydoğan", "Çiftçi"], "answer": 2 },
+    { "q": "Efe'nin soyadı nedir?", "options": ["Şan", "Fırat", "Önder", "Cengiz"], "answer": 0 },
+    { "q": "Barış Çağan'ın soyadı nedir?", "options": ["Yüksekkaya", "Soydoğan", "Cengiz", "Şan"], "answer": 0 },
+
+    { "q": "Grubun en uzun boylu üyesi kimdir?", "options": ["Oğuzhan", "Milan", "Batu", "Arda"], "answer": 1 },
+    { "q": "Milan Önder kaç cm boyunda?", "options": ["185", "188", "193", "196"], "answer": 2 },
+    { "q": "Oğuzhan Çiftçi kaç cm boyunda?", "options": ["178", "180", "185", "190"], "answer": 2 },
+    { "q": "Grubun en genç üyesi kimdir?", "options": ["Arda", "Efe", "Milan", "Miraç"], "answer": 1 },
+    { "q": "Grubun en büyük üyesi kimdir?", "options": ["Oğuzhan", "Batu", "Barış Çağan", "Miraç"], "answer": 0 },
+    { "q": "Oğuzhan Çiftçi hangi yıl doğdu?", "options": ["1997", "1999", "2001", "2003"], "answer": 1 },
+    { "q": "Efe Şan hangi yıl doğdu?", "options": ["2005", "2006", "2007", "2008"], "answer": 2 },
+    { "q": "Arda Soydoğan hangi yıl doğdu?", "options": ["2005", "2006", "2007", "2008"], "answer": 2 },
+    { "q": "Batu Cengiz hangi yıl doğdu?", "options": ["1999", "2001", "2003", "2004"], "answer": 1 },
+    { "q": "Miraç Fırat hangi yıl doğdu?", "options": ["2002", "2003", "2004", "2005"], "answer": 2 },
+    { "q": "Barış Çağan hangi yıl doğdu?", "options": ["2000", "2001", "2002", "2004"], "answer": 2 },
+
+    { "q": "Efe Şan'ın sahne adı nedir?", "options": ["Shine", "Storm", "Sky", "Spark"], "answer": 0 },
+    { "q": "Hangi üye Güney Kore'de sahne sanatları eğitimi aldı?", "options": ["Miraç", "Batu", "Efe", "Milan"], "answer": 0 },
+    { "q": "Hangi üye gruba katılmadan önce profesyonel dansçı olarak çalıştı?", "options": ["Batu", "Arda", "Barış Çağan", "Oğuzhan"], "answer": 0 },
+    { "q": "Efe Şan hangi ayda doğdu?", "options": ["Haziran", "Temmuz", "Ağustos", "Eylül"], "answer": 2 },
+    { "q": "Oğuzhan Çiftçi hangi ayda doğdu?", "options": ["Eylül", "Ekim", "Kasım", "Aralık"], "answer": 2 },
+    { "q": "Arda Soydoğan hangi ayda doğdu?", "options": ["Ocak", "Şubat", "Mart", "Nisan"], "answer": 1 },
+    { "q": "Miraç Fırat hangi ayda doğdu?", "options": ["Şubat", "Mart", "Nisan", "Mayıs"], "answer": 2 },
+    { "q": "Barış Çağan hangi ayda doğdu?", "options": ["Ağustos", "Eylül", "Ekim", "Kasım"], "answer": 2 },
+    { "q": "Milan Önder hangi ayda doğdu?", "options": ["Temmuz", "Ağustos", "Eylül", "Ekim"], "answer": 2 },
+    { "q": "Batu Cengiz hangi ayda doğdu?", "options": ["Nisan", "Mayıs", "Haziran", "Temmuz"], "answer": 2 },
+    { "q": "Barış Çağan kaç cm boyunda?", "options": ["170", "173", "176", "180"], "answer": 1 },
+    { "q": "Arda Soydoğan kaç cm boyunda?", "options": ["172", "174", "176", "179"], "answer": 2 },
+    { "q": "Efe Şan kaç cm boyunda?", "options": ["171", "174", "177", "180"], "answer": 1 }
+  ]
   "ads": {
     "bannerId": "ca-app-pub-3940256099942544/6300978111",
     "interstitialId": "ca-app-pub-3940256099942544/1033173712",
